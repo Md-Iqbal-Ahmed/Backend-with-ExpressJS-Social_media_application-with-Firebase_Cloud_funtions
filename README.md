@@ -7,3 +7,4 @@
 3. User comments, like and unlike options.
 4. Photo upload, update and delete options. 
 5. User Notifications(for like, comments) by using cloud truigger functions.
+6. Custom validation for login and register.
